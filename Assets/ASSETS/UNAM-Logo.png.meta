@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: bf824dbbc09fdb347ba42e2f9f31c085
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7384796130006202282
+    second: UNAM-Logo_0
+  - first:
+      213: -7351164885484021902
+    second: UNAM-Logo_1
+  - first:
+      213: -6296824420604439313
+    second: UNAM-Logo_2
+  - first:
+      213: 5275696838970487054
+    second: UNAM-Logo_3
+  - first:
+      213: -2383839667726279327
+    second: UNAM-Logo_4
+  - first:
+      213: -2065943184927632058
+    second: UNAM-Logo_5
+  - first:
+      213: -6182316498279799244
+    second: UNAM-Logo_6
+  - first:
+      213: 2525446754583746370
+    second: UNAM-Logo_7
+  - first:
+      213: -9115630014635824644
+    second: UNAM-Logo_8
+  - first:
+      213: -4289392771334520703
+    second: UNAM-Logo_9
+  - first:
+      213: -3537609534277231378
+    second: UNAM-Logo_10
+  - first:
+      213: -7911424410004233163
+    second: UNAM-Logo_11
+  - first:
+      213: 3858198717171666870
+    second: UNAM-Logo_12
+  - first:
+      213: -6123929566540396233
+    second: UNAM-Logo_13
+  - first:
+      213: -7987340967495684113
+    second: UNAM-Logo_14
+  - first:
+      213: -2567909151208994154
+    second: UNAM-Logo_15
+  - first:
+      213: -6884707166484303339
+    second: UNAM-Logo_16
+  - first:
+      213: 8758880889858779903
+    second: UNAM-Logo_17
+  - first:
+      213: 5430462841549500444
+    second: UNAM-Logo_18
+  - first:
+      213: -6544102227468251779
+    second: UNAM-Logo_19
+  - first:
+      213: -8843621843379642259
+    second: UNAM-Logo_20
+  - first:
+      213: 1643167987948819734
+    second: UNAM-Logo_21
+  - first:
+      213: -704075546015800569
+    second: UNAM-Logo_22
+  - first:
+      213: 1231595046858509801
+    second: UNAM-Logo_23
+  - first:
+      213: 959461077155091506
+    second: UNAM-Logo_24
+  - first:
+      213: 4150632300382036343
+    second: UNAM-Logo_25
+  - first:
+      213: -742327356598508902
+    second: UNAM-Logo_26
+  - first:
+      213: 726104476995916130
+    second: UNAM-Logo_27
+  - first:
+      213: 8294499675524272988
+    second: UNAM-Logo_28
+  - first:
+      213: 5853299540401438518
+    second: UNAM-Logo_29
+  - first:
+      213: 2228859173848481765
+    second: UNAM-Logo_30
+  - first:
+      213: 491361511377954618
+    second: UNAM-Logo_31
+  - first:
+      213: 1830133591049617569
+    second: UNAM-Logo_32
+  - first:
+      213: 2378105041269978434
+    second: UNAM-Logo_33
+  - first:
+      213: 1401273078465794389
+    second: UNAM-Logo_34
+  - first:
+      213: -7221021297504208623
+    second: UNAM-Logo_35
+  - first:
+      213: -1038483747041316375
+    second: UNAM-Logo_36
+  - first:
+      213: -1681208766781404305
+    second: UNAM-Logo_37
+  - first:
+      213: 2636538119150396529
+    second: UNAM-Logo_38
+  - first:
+      213: 3439167822446201626
+    second: UNAM-Logo_39
+  - first:
+      213: -7166590740738442607
+    second: UNAM-Logo_40
+  - first:
+      213: -2984243406167933478
+    second: UNAM-Logo_41
+  - first:
+      213: 2922488670152654391
+    second: UNAM-Logo_42
+  - first:
+      213: -901283170444516102
+    second: UNAM-Logo_43
+  - first:
+      213: -4031586501100039198
+    second: UNAM-Logo_44
+  - first:
+      213: 6000797258266771429
+    second: UNAM-Logo_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UNAM-Logo_0
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1442
+        width: 1667
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6580d4ccb0fe38990800000000000000
+      internalID: -7384796130006202282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_1
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1272
+        width: 78
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277566b1c7a6bf990800000000000000
+      internalID: -7351164885484021902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_2
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1278
+        width: 61
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe41edc2d8f2d98a0800000000000000
+      internalID: -6296824420604439313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_3
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1436
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01bc7db25a073940800000000000000
+      internalID: 5275696838970487054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_4
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1425
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d90bbc376eaeed0800000000000000
+      internalID: -2383839667726279327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_5
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 962
+        width: 113
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645df308e9b4453e0800000000000000
+      internalID: -2065943184927632058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_6
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 501
+        width: 784
+        height: 1005
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436eefe66eff33aa0800000000000000
+      internalID: -6182316498279799244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_7
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 948
+        width: 110
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247902261703c0320800000000000000
+      internalID: 2525446754583746370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_8
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 1395
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf92eb16cc6ce7180800000000000000
+      internalID: -9115630014635824644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_9
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 1402
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1804a7a20040974c0800000000000000
+      internalID: -4289392771334520703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_10
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 1410
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecde532fd2e7eec0800000000000000
+      internalID: -3537609534277231378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_11
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 1417
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534e7566a69f43290800000000000000
+      internalID: -7911424410004233163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_12
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 1423
+        width: 51
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf82e9aa431b8530800000000000000
+      internalID: 3858198717171666870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_13
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 1432
+        width: 62
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73909d4518e630ba0800000000000000
+      internalID: -6123929566540396233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_14
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1293
+        width: 58
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefae7475b3472190800000000000000
+      internalID: -7987340967495684113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_15
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1304
+        width: 57
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a86ba7b34fc5cd0800000000000000
+      internalID: -2567909151208994154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_16
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1312
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512fd1f0f4b9470a0800000000000000
+      internalID: -6884707166484303339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_17
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1323
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa6df543cbcd8970800000000000000
+      internalID: 8758880889858779903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_18
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 1304
+        width: 37
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10348cbe21ec5b40800000000000000
+      internalID: 5430462841549500444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_19
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 1302
+        width: 39
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d89ed32bdae25a0800000000000000
+      internalID: -6544102227468251779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_20
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 1291
+        width: 38
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60a879f9c4254580800000000000000
+      internalID: -8843621843379642259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_21
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 1286
+        width: 43
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6159bf34494bdc610800000000000000
+      internalID: 1643167987948819734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_22
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 1275
+        width: 51
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70360b0750f9a36f0800000000000000
+      internalID: -704075546015800569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_23
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 1259
+        width: 71
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edc12b7b21871110800000000000000
+      internalID: 1231595046858509801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_24
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 707
+        width: 95
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23494a724c0b05d00800000000000000
+      internalID: 959461077155091506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_25
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 850
+        width: 74
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771a88116120a9930800000000000000
+      internalID: 4150632300382036343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_26
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 947
+        width: 68
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9224e2c339b2b5f0800000000000000
+      internalID: -742327356598508902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_27
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 994
+        width: 71
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261992dbc24a31a00800000000000000
+      internalID: 726104476995916130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_28
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1048
+        width: 81
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53973d328bfb1370800000000000000
+      internalID: 8294499675524272988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_29
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1129
+        width: 47
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fb59d7be81b3150800000000000000
+      internalID: 5853299540401438518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_30
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 1048
+        width: 97
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5effb9f0c9f7eee10800000000000000
+      internalID: 2228859173848481765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_31
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 969
+        width: 109
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a376bf5f0baa1d600800000000000000
+      internalID: 491361511377954618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_32
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 916
+        width: 102
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0c50afdc0f56910800000000000000
+      internalID: 1830133591049617569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_33
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 828
+        width: 70
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245767f6fe9b00120800000000000000
+      internalID: 2378105041269978434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_34
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 684
+        width: 128
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551954bc072527310800000000000000
+      internalID: 1401273078465794389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_35
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 744
+        width: 221
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1193bb67367c9cb90800000000000000
+      internalID: -7221021297504208623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_36
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 801
+        width: 98
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1f590c8809691f0800000000000000
+      internalID: -1038483747041316375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_37
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 865
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bc8b6b8852ba8e0800000000000000
+      internalID: -1681208766781404305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_38
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 727
+        width: 271
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1746cbc437dd69420800000000000000
+      internalID: 2636538119150396529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_39
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 767
+        width: 108
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b0cdbb9e06abf20800000000000000
+      internalID: 3439167822446201626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_40
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 793
+        width: 99
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a7ea701b72b8c90800000000000000
+      internalID: -7166590740738442607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_41
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 748
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addfe0cee66d596d0800000000000000
+      internalID: -2984243406167933478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_42
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 722
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e7d8426f3ce8820800000000000000
+      internalID: 2922488670152654391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_43
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 121
+        width: 1700
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4ed9f4bbffd73f0800000000000000
+      internalID: -901283170444516102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_44
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 643
+        width: 82
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e31ca0007dec08c0800000000000000
+      internalID: -4031586501100039198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNAM-Logo_45
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 631
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eff024105d174350800000000000000
+      internalID: 6000797258266771429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UNAM-Logo_0: -7384796130006202282
+      UNAM-Logo_1: -7351164885484021902
+      UNAM-Logo_10: -3537609534277231378
+      UNAM-Logo_11: -7911424410004233163
+      UNAM-Logo_12: 3858198717171666870
+      UNAM-Logo_13: -6123929566540396233
+      UNAM-Logo_14: -7987340967495684113
+      UNAM-Logo_15: -2567909151208994154
+      UNAM-Logo_16: -6884707166484303339
+      UNAM-Logo_17: 8758880889858779903
+      UNAM-Logo_18: 5430462841549500444
+      UNAM-Logo_19: -6544102227468251779
+      UNAM-Logo_2: -6296824420604439313
+      UNAM-Logo_20: -8843621843379642259
+      UNAM-Logo_21: 1643167987948819734
+      UNAM-Logo_22: -704075546015800569
+      UNAM-Logo_23: 1231595046858509801
+      UNAM-Logo_24: 959461077155091506
+      UNAM-Logo_25: 4150632300382036343
+      UNAM-Logo_26: -742327356598508902
+      UNAM-Logo_27: 726104476995916130
+      UNAM-Logo_28: 8294499675524272988
+      UNAM-Logo_29: 5853299540401438518
+      UNAM-Logo_3: 5275696838970487054
+      UNAM-Logo_30: 2228859173848481765
+      UNAM-Logo_31: 491361511377954618
+      UNAM-Logo_32: 1830133591049617569
+      UNAM-Logo_33: 2378105041269978434
+      UNAM-Logo_34: 1401273078465794389
+      UNAM-Logo_35: -7221021297504208623
+      UNAM-Logo_36: -1038483747041316375
+      UNAM-Logo_37: -1681208766781404305
+      UNAM-Logo_38: 2636538119150396529
+      UNAM-Logo_39: 3439167822446201626
+      UNAM-Logo_4: -2383839667726279327
+      UNAM-Logo_40: -7166590740738442607
+      UNAM-Logo_41: -2984243406167933478
+      UNAM-Logo_42: 2922488670152654391
+      UNAM-Logo_43: -901283170444516102
+      UNAM-Logo_44: -4031586501100039198
+      UNAM-Logo_45: 6000797258266771429
+      UNAM-Logo_5: -2065943184927632058
+      UNAM-Logo_6: -6182316498279799244
+      UNAM-Logo_7: 2525446754583746370
+      UNAM-Logo_8: -9115630014635824644
+      UNAM-Logo_9: -4289392771334520703
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

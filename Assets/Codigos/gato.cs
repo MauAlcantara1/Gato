@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using TMPro;
+using System.Collections; 
 
 public class gato : MonoBehaviour
 {
@@ -12,10 +13,13 @@ public class gato : MonoBehaviour
     private int ganador = 0;
     public Sprite spriteX;
     public Sprite spriteO;
-    
+    private int movimientos = 0;
+
+
     void Start()
     {
         IniciaGato();
+        movimientos = 0;
     }
 
     private void EscribeValorMatrizGato(string btn, int t)
@@ -23,89 +27,141 @@ public class gato : MonoBehaviour
         int valor = (t == 1) ? 1 : 2;
         switch (btn)
         {
-            case "c0": matrizGato[0, 0] = valor; break;
-            case "c1": matrizGato[0, 1] = valor; break;
-            case "c2": matrizGato[0, 2] = valor; break;
-            case "c3": matrizGato[1, 0] = valor; break;
-            case "c4": matrizGato[1, 1] = valor; break;
-            case "c5": matrizGato[1, 2] = valor; break;
-            case "c6": matrizGato[2, 0] = valor; break;
-            case "c7": matrizGato[2, 1] = valor; break;
-            case "c8": matrizGato[2, 2] = valor; break;
+            case "c1": matrizGato[0, 0] = valor; break;
+            case "c2": matrizGato[0, 1] = valor; break;
+            case "c3": matrizGato[0, 2] = valor; break;
+            case "c4": matrizGato[1, 0] = valor; break;
+            case "c5": matrizGato[1, 1] = valor; break;
+            case "c6": matrizGato[1, 2] = valor; break;
+            case "c7": matrizGato[2, 0] = valor; break;
+            case "c8": matrizGato[2, 1] = valor; break;
+            case "c9": matrizGato[2, 2] = valor; break;
         }
     }
-    
+
     private void VerificarGanador()
     {
-        for (int i = 0; i < 3; i++)
+        if (matrizGato[0, 0] == 1 && matrizGato[0, 1] == 1 && matrizGato[0, 2] == 1)
         {
-            if (matrizGato[i,0] != 0 && 
-                matrizGato[i,0] == matrizGato[i,1] && 
-                matrizGato[i,1] == matrizGato[i,2])
-            {
-                ganador = matrizGato[i,0];
-                MostrarGanador();
-                return;
-            }
+            ganador = 1;
+            Debug.Log("1");
+            ReiniciarConRetraso(3f);
+        }
+        if (matrizGato[1, 0] == 1 && matrizGato[1, 1] == 1 && matrizGato[1, 2] == 1)
+        {
+            ganador = 1;
+            Debug.Log("2");
+            ReiniciarConRetraso(3f);
+        }
+        if (matrizGato[2, 0] == 1 && matrizGato[2, 1] == 1 && matrizGato[2, 2] == 1)
+        {
+            ganador = 1;
+            Debug.Log("3");
+            ReiniciarConRetraso(3f);
         }
 
-        for (int j = 0; j < 3; j++)
+        if (matrizGato[0, 0] == 2 && matrizGato[0, 1] == 2 && matrizGato[0, 2] == 2)
         {
-            if (matrizGato[0,j] != 0 && 
-                matrizGato[0,j] == matrizGato[1,j] && 
-                matrizGato[1,j] == matrizGato[2,j])
-            {
-                ganador = matrizGato[0,j];
-                MostrarGanador();
-                return;
-            }
+            ganador = 2;
+            Debug.Log("4");
+            ReiniciarConRetraso(3f);
+        }
+        if (matrizGato[1, 0] == 2 && matrizGato[1, 1] == 2 && matrizGato[1, 2] == 2)
+        {
+            ganador = 2;
+            Debug.Log("5");
+            ReiniciarConRetraso(3f);
+        }
+        if (matrizGato[2, 0] == 2 && matrizGato[2, 1] == 2 && matrizGato[2, 2] == 2)
+        {
+            ganador = 2;
+            Debug.Log("6");
+            ReiniciarConRetraso(3f);
+        }
+        //diagonales
+        if (matrizGato[0, 0] == 1 && matrizGato[1, 1] == 1 && matrizGato[2, 2] == 1)
+        {
+            ganador = 1;
+            Debug.Log("7");
+            ReiniciarConRetraso(3f);
+        }
+        if (matrizGato[0, 2] == 1 && matrizGato[1, 1] == 1 && matrizGato[2, 0] == 1)
+        {
+            ganador = 1;
+            Debug.Log("8");
+            ReiniciarConRetraso(3f);
         }
 
-        if (matrizGato[0,0] != 0 && 
-            matrizGato[0,0] == matrizGato[1,1] && 
-            matrizGato[1,1] == matrizGato[2,2])
+        if (matrizGato[0, 0] == 2 && matrizGato[1, 1] == 2 && matrizGato[2, 2] == 2)
         {
-            ganador = matrizGato[0,0];
-            MostrarGanador();
-            return;
+            ganador = 2;
+            Debug.Log("9");
+            ReiniciarConRetraso(3f);
+        }
+        if (matrizGato[0, 2] == 2 && matrizGato[1, 1] == 2 && matrizGato[2, 0] == 2)
+        {
+            ganador = 2;
+            Debug.Log("10");
+            ReiniciarConRetraso(3f);
         }
 
-        if (matrizGato[0,2] != 0 && 
-            matrizGato[0,2] == matrizGato[1,1] && 
-            matrizGato[1,1] == matrizGato[2,0])
+
+        if (matrizGato[0, 0] == 1 && matrizGato[1, 0] == 1 && matrizGato[2, 0] == 1)
         {
-            ganador = matrizGato[0,2];
-            MostrarGanador();
-            return;
+            ganador = 1;
+            Debug.Log("11");
+            ReiniciarConRetraso(3f);
+        }
+        if (matrizGato[0, 1] == 1 && matrizGato[1, 1] == 1 && matrizGato[2, 1] == 1)
+        {
+            ganador = 1;
+            Debug.Log("12");
+            ReiniciarConRetraso(3f);
+        }
+        if (matrizGato[0, 2] == 1 && matrizGato[1, 2] == 1 && matrizGato[2, 2] == 1)
+        {
+            ganador = 1;
+            Debug.Log("13");
+            ReiniciarConRetraso(3f);
         }
 
-        bool empate = true;
-        for (int i = 0; i < 3; i++)
+        if (matrizGato[0, 0] == 2 && matrizGato[1, 0] == 2 && matrizGato[2, 0] == 2)
         {
-            for (int j = 0; j < 3; j++)
-            {
-                if (matrizGato[i, j] == 0) empate = false;
-            }
+            ganador = 2;
+            Debug.Log("14");
+            ReiniciarConRetraso(3f);
+        }
+        if (matrizGato[0, 1] == 2 && matrizGato[1, 1] == 2 && matrizGato[2, 1] == 2)
+        {
+            ganador = 2;
+            Debug.Log("15");
+            ReiniciarConRetraso(3f);
+        }
+        if (matrizGato[0, 2] == 2 && matrizGato[1, 2] == 2 && matrizGato[2, 2] == 2)
+        {
+            ganador = 2;
+            Debug.Log("16");
+            ReiniciarConRetraso(3f);
         }
 
-        if (empate)
+        if (ganador == 0 && movimientos == 9)
         {
-            txtJuego.text = "¡Empate!";
+            txtJuego.text = "Empate";
         }
-    }
 
-    private void MostrarGanador()
-    {
         if (ganador == 1)
-            txtJuego.text = "¡Ganó X!";
-        else if (ganador == 2)
-            txtJuego.text = "¡Ganó O!";
-
-        for (int i = 1; i <= 9; i++)
         {
-            GameObject.Find("c" + i).GetComponent<Button>().interactable = false;
+            txtJuego.text = "Ganador X"; 
+        }
+
+        if (ganador == 2)
+        {
+            txtJuego.text = "Ganador O";
         }
     }
+
+
+
 
     public void AsignaTurno(Button btn)
     {
@@ -115,9 +171,10 @@ public class gato : MonoBehaviour
 
             DibujaSimbolo(btn, turno);
             EscribeValorMatrizGato(btn.name, turno);
+            movimientos++;
             VerificarGanador();
 
-            turno = (turno == 1) ? 2 : 1; // alternar entre 1 y 2
+            turno = (turno == 1) ? 2 : 1; 
         }
     }
 
@@ -159,6 +216,18 @@ public class gato : MonoBehaviour
             GameObject.Find("c" + i).GetComponent<Button>().interactable = true;
         }
     }
+
+    private void ReiniciarConRetraso(float segundos)
+    {
+        StartCoroutine(ReiniciarCoroutine(segundos));
+    }
+
+    private IEnumerator ReiniciarCoroutine(float segundos)
+    {
+        yield return new WaitForSeconds(segundos);
+        SceneManager.LoadScene("Main");
+    }
+
 
 
     public void ReiniciarJuego()

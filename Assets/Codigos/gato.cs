@@ -1,8 +1,8 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using TMPro;
-using System.Collections; 
+using System.Collections;
 
 public class gato : MonoBehaviour
 {
@@ -41,6 +41,7 @@ public class gato : MonoBehaviour
 
     private void VerificarGanador()
     {
+        // todas las condiciones para encontrar ganador...
         if (matrizGato[0, 0] == 1 && matrizGato[0, 1] == 1 && matrizGato[0, 2] == 1)
         {
             ganador = 1;
@@ -105,7 +106,6 @@ public class gato : MonoBehaviour
             ReiniciarConRetraso(3f);
         }
 
-
         if (matrizGato[0, 0] == 1 && matrizGato[1, 0] == 1 && matrizGato[2, 0] == 1)
         {
             ganador = 1;
@@ -151,17 +151,16 @@ public class gato : MonoBehaviour
 
         if (ganador == 1)
         {
-            txtJuego.text = "Ganador X"; 
+            txtJuego.text = "Ganador X";
+            SoundManager.instance.ReproducirAlerta(); // 🔔 sonido al ganar X
         }
 
         if (ganador == 2)
         {
             txtJuego.text = "Ganador O";
+            SoundManager.instance.ReproducirAlerta(); // 🔔 sonido al ganar O
         }
     }
-
-
-
 
     public void AsignaTurno(Button btn)
     {
@@ -172,13 +171,14 @@ public class gato : MonoBehaviour
             DibujaSimbolo(btn, turno);
             EscribeValorMatrizGato(btn.name, turno);
             movimientos++;
+
+            SoundManager.instance.ReproducirPitido(); // 📢 sonido al colocar ficha
+
             VerificarGanador();
 
-            turno = (turno == 1) ? 2 : 1; 
+            turno = (turno == 1) ? 2 : 1;
         }
     }
-
-
 
     private void DibujaSimbolo(Button btn, int turno)
     {
@@ -197,7 +197,6 @@ public class gato : MonoBehaviour
         btn.interactable = false;
     }
 
-
     private void IniciaGato()
     {
         for (int i = 0; i < 3; i++)
@@ -211,8 +210,8 @@ public class gato : MonoBehaviour
         for (int i = 1; i <= 9; i++)
         {
             Image img = GameObject.Find("c" + i).GetComponent<Image>();
-            img.sprite = null;        
-            img.color = new Color(1,1,1,0); 
+            img.sprite = null;
+            img.color = new Color(1, 1, 1, 0);
             GameObject.Find("c" + i).GetComponent<Button>().interactable = true;
         }
     }
@@ -227,8 +226,6 @@ public class gato : MonoBehaviour
         yield return new WaitForSeconds(segundos);
         SceneManager.LoadScene("Main");
     }
-
-
 
     public void ReiniciarJuego()
     {

@@ -1,25 +1,33 @@
-﻿using UnityEngine;
-using UnityEngine.UI;
-using UnityEngine.SceneManagement;
+﻿using System.Collections;
 using TMPro;
-using System.Collections;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class gato : MonoBehaviour
 {
     public Button btn;
     public TextMeshProUGUI txtJuego;
+    public TextMeshProUGUI txtTurnos;
+    public TextMeshProUGUI txtPuntosX;
+    public TextMeshProUGUI txtPuntosO;
+
     private int[,] matrizGato = new int[3, 3];
     private int turno = 1;
     private int ganador = 0;
+    private int puntosX = 0;
+    private int puntosO = 0;
+
     public Sprite spriteX;
     public Sprite spriteO;
     private int movimientos = 0;
-
 
     void Start()
     {
         IniciaGato();
         movimientos = 0;
+        txtTurnos.text = "Turno de X";
+        ActualizarMarcador();
     }
 
     private void EscribeValorMatrizGato(string btn, int t)
@@ -27,15 +35,33 @@ public class gato : MonoBehaviour
         int valor = (t == 1) ? 1 : 2;
         switch (btn)
         {
-            case "c1": matrizGato[0, 0] = valor; break;
-            case "c2": matrizGato[0, 1] = valor; break;
-            case "c3": matrizGato[0, 2] = valor; break;
-            case "c4": matrizGato[1, 0] = valor; break;
-            case "c5": matrizGato[1, 1] = valor; break;
-            case "c6": matrizGato[1, 2] = valor; break;
-            case "c7": matrizGato[2, 0] = valor; break;
-            case "c8": matrizGato[2, 1] = valor; break;
-            case "c9": matrizGato[2, 2] = valor; break;
+            case "c1":
+                matrizGato[0, 0] = valor;
+                break;
+            case "c2":
+                matrizGato[0, 1] = valor;
+                break;
+            case "c3":
+                matrizGato[0, 2] = valor;
+                break;
+            case "c4":
+                matrizGato[1, 0] = valor;
+                break;
+            case "c5":
+                matrizGato[1, 1] = valor;
+                break;
+            case "c6":
+                matrizGato[1, 2] = valor;
+                break;
+            case "c7":
+                matrizGato[2, 0] = valor;
+                break;
+            case "c8":
+                matrizGato[2, 1] = valor;
+                break;
+            case "c9":
+                matrizGato[2, 2] = valor;
+                break;
         }
     }
 
@@ -152,13 +178,17 @@ public class gato : MonoBehaviour
         if (ganador == 1)
         {
             txtJuego.text = "Ganador X";
-            SoundManager.instance.ReproducirAlerta(); // 🔔 sonido al ganar X
+            puntosX++;
+            ActualizarMarcador();
+            SoundManager.instance.ReproducirAlerta(); // sonido al ganar X
         }
 
         if (ganador == 2)
         {
             txtJuego.text = "Ganador O";
-            SoundManager.instance.ReproducirAlerta(); // 🔔 sonido al ganar O
+            puntosO++;
+            ActualizarMarcador();
+            SoundManager.instance.ReproducirAlerta(); // sonido al ganar O
         }
     }
 
@@ -166,8 +196,7 @@ public class gato : MonoBehaviour
     {
         if (ganador == 0)
         {
-            txtJuego.text = "Juego en curso";
-
+            txtJuego.text = "Juego Nuevo";
             DibujaSimbolo(btn, turno);
             EscribeValorMatrizGato(btn.name, turno);
             movimientos++;
@@ -177,7 +206,21 @@ public class gato : MonoBehaviour
             VerificarGanador();
 
             turno = (turno == 1) ? 2 : 1;
+            if (turno == 1)
+            {
+                txtTurnos.text = "Turno de X";
+            }
+            else
+            {
+                txtTurnos.text = "Turno de O";
+            }
         }
+    }
+
+    private void ActualizarMarcador()
+    {
+        txtPuntosX.text = puntosX.ToString();
+        txtPuntosO.text = puntosO.ToString();
     }
 
     private void DibujaSimbolo(Button btn, int turno)
@@ -224,11 +267,20 @@ public class gato : MonoBehaviour
     private IEnumerator ReiniciarCoroutine(float segundos)
     {
         yield return new WaitForSeconds(segundos);
-        SceneManager.LoadScene("Main");
+        IniciaGato(); // 👈 Limpia tablero
+        ganador = 0;
+        movimientos = 0;
+        turno = 1;
+        txtJuego.text = "Turno de X"; // Reinicia turno
     }
 
     public void ReiniciarJuego()
     {
         SceneManager.LoadScene("Main");
+    }
+
+    public void RegresarMenu()
+    {
+        SceneManager.LoadScene("Menu");
     }
 }

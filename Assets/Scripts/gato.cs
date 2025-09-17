@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -173,6 +173,9 @@ public class gato : MonoBehaviour
         if (ganador == 0 && movimientos == 9)
         {
             txtJuego.text = "Empate";
+            ActualizarMarcador();
+            txtTurnos.text = " ";
+            ReiniciarConRetraso(3f); 
         }
 
         if (ganador == 1)
@@ -201,7 +204,7 @@ public class gato : MonoBehaviour
             EscribeValorMatrizGato(btn.name, turno);
             movimientos++;
 
-            SoundManager.instance.ReproducirPitido(); // 📢 sonido al colocar ficha
+            SoundManager.instance.ReproducirPitido();
 
             VerificarGanador();
 
@@ -267,11 +270,13 @@ public class gato : MonoBehaviour
     private IEnumerator ReiniciarCoroutine(float segundos)
     {
         yield return new WaitForSeconds(segundos);
-        IniciaGato(); // 👈 Limpia tablero
+        IniciaGato(); 
         ganador = 0;
         movimientos = 0;
         turno = 1;
-        txtJuego.text = "Turno de X"; // Reinicia turno
+        txtTurnos.text = "Turno de X";
+        txtJuego.text = "Juego Nuevo";
+
     }
 
     public void ReiniciarJuego()

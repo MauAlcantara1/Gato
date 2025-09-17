@@ -1,0 +1,2184 @@
+fileFormatVersion: 2
+guid: 7ce3f2a968c08d645af07bea244ef24c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7067748794918719088
+    second: Asset UI Without Gradient_0
+  - first:
+      213: 3973802632853781695
+    second: Asset UI Without Gradient_1
+  - first:
+      213: 8929283454980269459
+    second: Asset UI Without Gradient_2
+  - first:
+      213: -4725565480658744489
+    second: Asset UI Without Gradient_3
+  - first:
+      213: -7923671877310382768
+    second: Asset UI Without Gradient_4
+  - first:
+      213: -7118389954290650101
+    second: Asset UI Without Gradient_5
+  - first:
+      213: 8066444864482987641
+    second: Asset UI Without Gradient_6
+  - first:
+      213: -1535586445345495319
+    second: Asset UI Without Gradient_7
+  - first:
+      213: 9213089912992233488
+    second: Asset UI Without Gradient_8
+  - first:
+      213: -568327674825781994
+    second: Asset UI Without Gradient_9
+  - first:
+      213: -7530421399430588265
+    second: Asset UI Without Gradient_10
+  - first:
+      213: 2796089794871926875
+    second: Asset UI Without Gradient_11
+  - first:
+      213: -7637802471466824028
+    second: Asset UI Without Gradient_12
+  - first:
+      213: 6741369829514337885
+    second: Asset UI Without Gradient_13
+  - first:
+      213: 8839439762942947355
+    second: Asset UI Without Gradient_14
+  - first:
+      213: -3672744502868866917
+    second: Asset UI Without Gradient_15
+  - first:
+      213: 4957450179425232270
+    second: Asset UI Without Gradient_16
+  - first:
+      213: -3073555682925377919
+    second: Asset UI Without Gradient_17
+  - first:
+      213: 6041127286932727012
+    second: Asset UI Without Gradient_18
+  - first:
+      213: -1206883428902585730
+    second: Asset UI Without Gradient_19
+  - first:
+      213: 8349521367793552964
+    second: Asset UI Without Gradient_20
+  - first:
+      213: -4173984370792608726
+    second: Asset UI Without Gradient_21
+  - first:
+      213: -6864669997614585372
+    second: Asset UI Without Gradient_22
+  - first:
+      213: -482417664087724133
+    second: Asset UI Without Gradient_23
+  - first:
+      213: 5172496703448332595
+    second: Asset UI Without Gradient_24
+  - first:
+      213: -6496029228367044250
+    second: Asset UI Without Gradient_25
+  - first:
+      213: -1873971715688376107
+    second: Asset UI Without Gradient_26
+  - first:
+      213: 3932069369129948704
+    second: Asset UI Without Gradient_27
+  - first:
+      213: -7153650352748052100
+    second: Asset UI Without Gradient_28
+  - first:
+      213: -1745440422807522459
+    second: Asset UI Without Gradient_29
+  - first:
+      213: -6015358087013251827
+    second: Asset UI Without Gradient_30
+  - first:
+      213: -8917527252571665656
+    second: Asset UI Without Gradient_31
+  - first:
+      213: 6398183758018470868
+    second: Asset UI Without Gradient_32
+  - first:
+      213: -3445891315655764049
+    second: Asset UI Without Gradient_33
+  - first:
+      213: 3275221675472750686
+    second: Asset UI Without Gradient_34
+  - first:
+      213: -9101877500499372208
+    second: Asset UI Without Gradient_35
+  - first:
+      213: -6331037058175368905
+    second: Asset UI Without Gradient_36
+  - first:
+      213: 2872832764008151730
+    second: Asset UI Without Gradient_37
+  - first:
+      213: 115273766116236260
+    second: Asset UI Without Gradient_38
+  - first:
+      213: 7763082500011795587
+    second: Asset UI Without Gradient_39
+  - first:
+      213: 4564769238331631769
+    second: Asset UI Without Gradient_40
+  - first:
+      213: -1658454439268776985
+    second: Asset UI Without Gradient_41
+  - first:
+      213: -4742063536413470113
+    second: Asset UI Without Gradient_42
+  - first:
+      213: -7508531180030671249
+    second: Asset UI Without Gradient_43
+  - first:
+      213: 3441631576195670538
+    second: Asset UI Without Gradient_44
+  - first:
+      213: -509966763695470100
+    second: Asset UI Without Gradient_45
+  - first:
+      213: 1179903022868383056
+    second: Asset UI Without Gradient_46
+  - first:
+      213: -3290896153716524181
+    second: Asset UI Without Gradient_47
+  - first:
+      213: 8383484747335719106
+    second: Asset UI Without Gradient_48
+  - first:
+      213: -746085109818289777
+    second: Asset UI Without Gradient_49
+  - first:
+      213: 5284411440903579505
+    second: Asset UI Without Gradient_50
+  - first:
+      213: 8271940944821100514
+    second: Asset UI Without Gradient_51
+  - first:
+      213: -1604411428140230274
+    second: Asset UI Without Gradient_52
+  - first:
+      213: -4092310403813368146
+    second: Asset UI Without Gradient_53
+  - first:
+      213: 571290190928072955
+    second: Asset UI Without Gradient_54
+  - first:
+      213: -8352947079795719339
+    second: Asset UI Without Gradient_55
+  - first:
+      213: -5045254597007225375
+    second: Asset UI Without Gradient_56
+  - first:
+      213: -6587287716933942291
+    second: Asset UI Without Gradient_57
+  - first:
+      213: 8408112118809235078
+    second: Asset UI Without Gradient_58
+  - first:
+      213: 4617028481713797814
+    second: Asset UI Without Gradient_59
+  - first:
+      213: -5512725018745418930
+    second: Asset UI Without Gradient_60
+  - first:
+      213: -8337594740229275616
+    second: Asset UI Without Gradient_61
+  - first:
+      213: 5894542735447167386
+    second: Asset UI Without Gradient_62
+  - first:
+      213: 5058657197432678429
+    second: Asset UI Without Gradient_63
+  - first:
+      213: -5183409762616978503
+    second: Asset UI Without Gradient_64
+  - first:
+      213: -189780876997825510
+    second: Asset UI Without Gradient_65
+  - first:
+      213: 7832196799981648812
+    second: Asset UI Without Gradient_66
+  - first:
+      213: 1317761818128320613
+    second: Asset UI Without Gradient_67
+  - first:
+      213: 413969953274898138
+    second: Asset UI Without Gradient_68
+  - first:
+      213: 4612597449382510788
+    second: Asset UI Without Gradient_69
+  - first:
+      213: 3223396471970316032
+    second: Asset UI Without Gradient_70
+  - first:
+      213: 4098054637329578498
+    second: Asset UI Without Gradient_71
+  - first:
+      213: 1730921446271066917
+    second: Asset UI Without Gradient_72
+  - first:
+      213: 1418987480054298432
+    second: Asset UI Without Gradient_73
+  - first:
+      213: 574451901308898763
+    second: Asset UI Without Gradient_74
+  - first:
+      213: -1518082379899815971
+    second: Asset UI Without Gradient_75
+  - first:
+      213: -1005731507041181728
+    second: Asset UI Without Gradient_76
+  - first:
+      213: -2111797144498381331
+    second: Asset UI Without Gradient_77
+  - first:
+      213: 1536617102257725619
+    second: Asset UI Without Gradient_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 412
+        width: 90
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e43da1510b51260800000000000000
+      internalID: 7067748794918719088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 412
+        width: 90
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcf2c2c078c52730800000000000000
+      internalID: 3973802632853781695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 411
+        width: 90
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3952fd03eff2beb70800000000000000
+      internalID: 8929283454980269459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 422
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bcc728b3b6b6eb0800000000000000
+      internalID: -4725565480658744489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_4
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 422
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d7924b866790290800000000000000
+      internalID: -7923671877310382768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_5
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 422
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04fbc92d06663d90800000000000000
+      internalID: -7118389954290650101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 422
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e48cbcdd4c1ff60800000000000000
+      internalID: 8066444864482987641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 422
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6e64b834080bae0800000000000000
+      internalID: -1535586445345495319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_8
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 422
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018f2ab76787bdf70800000000000000
+      internalID: 9213089912992233488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 422
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d4cf9adf4ec18f0800000000000000
+      internalID: -568327674825781994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 380
+        width: 90
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79890f592a19e7790800000000000000
+      internalID: -7530421399430588265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 380
+        width: 90
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50af67aad4bdc620800000000000000
+      internalID: 2796089794871926875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_12
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 379
+        width: 90
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae8e977e13110690800000000000000
+      internalID: -7637802471466824028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 406
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5edcb384282e8d50800000000000000
+      internalID: 6741369829514337885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_14
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 406
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b107dab81affbaa70800000000000000
+      internalID: 8839439762942947355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_15
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 406
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b988bbb655ac70dc0800000000000000
+      internalID: -3672744502868866917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_16
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 406
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8566582ca66cc440800000000000000
+      internalID: 4957450179425232270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_17
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 406
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18689d904698855d0800000000000000
+      internalID: -3073555682925377919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_18
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 406
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e46b8c924566d350800000000000000
+      internalID: 6041127286932727012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_19
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 406
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ab4fe6ae9404fe0800000000000000
+      internalID: -1206883428902585730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_20
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 390
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e4ed342757fd370800000000000000
+      internalID: 8349521367793552964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_21
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 390
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ccfd854570316c0800000000000000
+      internalID: -4173984370792608726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_22
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 390
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9a6ebf10bcbb0a0800000000000000
+      internalID: -6864669997614585372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_23
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 390
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f6da2c0bb1e49f0800000000000000
+      internalID: -482417664087724133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_24
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 390
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339bae2c85668c740800000000000000
+      internalID: 5172496703448332595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_25
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 390
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661a0a095d779d5a0800000000000000
+      internalID: -6496029228367044250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_26
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 390
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8d34f37a05ef5e0800000000000000
+      internalID: -1873971715688376107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 348
+        width: 90
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0265f2b1244819630800000000000000
+      internalID: 3932069369129948704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_28
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 348
+        width: 90
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71ca15e7e029bc90800000000000000
+      internalID: -7153650352748052100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_29
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 374
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56333f5ee23f6c7e0800000000000000
+      internalID: -1745440422807522459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_30
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 374
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d054dcac0b7258ca0800000000000000
+      internalID: -6015358087013251827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_31
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 374
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bc99bf5349e3480800000000000000
+      internalID: -8917527252571665656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_32
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 374
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d36d589a3aeac850800000000000000
+      internalID: 6398183758018470868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_33
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 374
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa71cb30b1cbd20d0800000000000000
+      internalID: -3445891315655764049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 358
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58863fc2cce37d20800000000000000
+      internalID: 3275221675472750686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_35
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 358
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0575d9913a2afa180800000000000000
+      internalID: -9101877500499372208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_36
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 358
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7318f9fb653a328a0800000000000000
+      internalID: -6331037058175368905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_37
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 358
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba3fcd8d2a5ed720800000000000000
+      internalID: 2872832764008151730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_38
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 358
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb974921e8899100800000000000000
+      internalID: 115273766116236260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_39
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 358
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384214737620cbb60800000000000000
+      internalID: 7763082500011795587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_40
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 358
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9982364ef61595f30800000000000000
+      internalID: 4564769238331631769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_41
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 314
+        width: 127
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3073f697cfbf8e0800000000000000
+      internalID: -1658454439268776985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_42
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 342
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f521eb1965ec03eb0800000000000000
+      internalID: -4742063536413470113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_43
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 342
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66c3557ca65cc790800000000000000
+      internalID: -7508531180030671249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_44
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 342
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0229ea1fa123cf20800000000000000
+      internalID: 3441631576195670538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_45
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 312
+        width: 127
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce90daa2eeb3ce8f0800000000000000
+      internalID: -509966763695470100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_46
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 304
+        width: 180
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055ca734c8bdf5010800000000000000
+      internalID: 1179903022868383056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_47
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 282
+        width: 127
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bf60552636452d0800000000000000
+      internalID: -3290896153716524181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_48
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 280
+        width: 127
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8d9d8c5fe185470800000000000000
+      internalID: 8383484747335719106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_49
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 284
+        width: 178
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f819219ab8f55a5f0800000000000000
+      internalID: -746085109818289777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 250
+        width: 127
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177611e1530065940800000000000000
+      internalID: 5284411440903579505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_51
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 248
+        width: 127
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef12137676dbc270800000000000000
+      internalID: 8271940944821100514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_52
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 263
+        width: 178
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79df108e4cfbb9e0800000000000000
+      internalID: -1604411428140230274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_53
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 216
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae9116ae513537c0800000000000000
+      internalID: -4092310403813368146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_54
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 216
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0deedd661ade700800000000000000
+      internalID: 571290190928072955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_55
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 216
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553c32103ee541c80800000000000000
+      internalID: -8352947079795719339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_56
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 176
+        width: 108
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed4af7cca7abf9b0800000000000000
+      internalID: -5045254597007225375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_57
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 175
+        width: 108
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3cbdee8b04594a0800000000000000
+      internalID: -6587287716933942291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_58
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 267
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e08498c6d9fa470800000000000000
+      internalID: 8408112118809235078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_59
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 161
+        width: 109
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba796a21faf21040800000000000000
+      internalID: 4617028481713797814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_60
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 160
+        width: 107
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b45499dcdde73b0800000000000000
+      internalID: -5512725018745418930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_61
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 146
+        width: 109
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020087b12c9ea4c80800000000000000
+      internalID: -8337594740229275616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_62
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 145
+        width: 107
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9110b3236f9dc150800000000000000
+      internalID: 5894542735447167386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_63
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 131
+        width: 109
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18a27d4be5f33640800000000000000
+      internalID: 5058657197432678429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_64
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 130
+        width: 107
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b35ce5a844d018b0800000000000000
+      internalID: -5183409762616978503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_65
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 116
+        width: 108
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ce1614c43cd5df0800000000000000
+      internalID: -189780876997825510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_66
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 115
+        width: 107
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab7bd92e7d81bc60800000000000000
+      internalID: 7832196799981648812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_67
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 101
+        width: 108
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5688c1c4461a94210800000000000000
+      internalID: 1317761818128320613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_68
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 100
+        width: 108
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6a2acaa77beb500800000000000000
+      internalID: 413969953274898138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_69
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 87
+        width: 108
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0415e01fc330040800000000000000
+      internalID: 4612597449382510788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_70
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 85
+        width: 109
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fb902530ecbbc20800000000000000
+      internalID: 3223396471970316032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_71
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 72
+        width: 109
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20afb20faf63fd830800000000000000
+      internalID: 4098054637329578498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_72
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 70
+        width: 109
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523a71372e7750810800000000000000
+      internalID: 1730921446271066917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_73
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 57
+        width: 109
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047fc51589141b310800000000000000
+      internalID: 1418987480054298432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_74
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 55
+        width: 109
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd801ee5fcd8f700800000000000000
+      internalID: 574451901308898763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_75
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 42
+        width: 109
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7ba4e5e10beeae0800000000000000
+      internalID: -1518082379899815971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_76
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 40
+        width: 108
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef546fd58cea02f0800000000000000
+      internalID: -1005731507041181728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_77
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 27
+        width: 108
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded5d749fa361b2e0800000000000000
+      internalID: -2111797144498381331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset UI Without Gradient_78
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 25
+        width: 108
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0acd7fc19235510800000000000000
+      internalID: 1536617102257725619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Asset UI Without Gradient_0: 7067748794918719088
+      Asset UI Without Gradient_1: 3973802632853781695
+      Asset UI Without Gradient_10: -7530421399430588265
+      Asset UI Without Gradient_11: 2796089794871926875
+      Asset UI Without Gradient_12: -7637802471466824028
+      Asset UI Without Gradient_13: 6741369829514337885
+      Asset UI Without Gradient_14: 8839439762942947355
+      Asset UI Without Gradient_15: -3672744502868866917
+      Asset UI Without Gradient_16: 4957450179425232270
+      Asset UI Without Gradient_17: -3073555682925377919
+      Asset UI Without Gradient_18: 6041127286932727012
+      Asset UI Without Gradient_19: -1206883428902585730
+      Asset UI Without Gradient_2: 8929283454980269459
+      Asset UI Without Gradient_20: 8349521367793552964
+      Asset UI Without Gradient_21: -4173984370792608726
+      Asset UI Without Gradient_22: -6864669997614585372
+      Asset UI Without Gradient_23: -482417664087724133
+      Asset UI Without Gradient_24: 5172496703448332595
+      Asset UI Without Gradient_25: -6496029228367044250
+      Asset UI Without Gradient_26: -1873971715688376107
+      Asset UI Without Gradient_27: 3932069369129948704
+      Asset UI Without Gradient_28: -7153650352748052100
+      Asset UI Without Gradient_29: -1745440422807522459
+      Asset UI Without Gradient_3: -4725565480658744489
+      Asset UI Without Gradient_30: -6015358087013251827
+      Asset UI Without Gradient_31: -8917527252571665656
+      Asset UI Without Gradient_32: 6398183758018470868
+      Asset UI Without Gradient_33: -3445891315655764049
+      Asset UI Without Gradient_34: 3275221675472750686
+      Asset UI Without Gradient_35: -9101877500499372208
+      Asset UI Without Gradient_36: -6331037058175368905
+      Asset UI Without Gradient_37: 2872832764008151730
+      Asset UI Without Gradient_38: 115273766116236260
+      Asset UI Without Gradient_39: 7763082500011795587
+      Asset UI Without Gradient_4: -7923671877310382768
+      Asset UI Without Gradient_40: 4564769238331631769
+      Asset UI Without Gradient_41: -1658454439268776985
+      Asset UI Without Gradient_42: -4742063536413470113
+      Asset UI Without Gradient_43: -7508531180030671249
+      Asset UI Without Gradient_44: 3441631576195670538
+      Asset UI Without Gradient_45: -509966763695470100
+      Asset UI Without Gradient_46: 1179903022868383056
+      Asset UI Without Gradient_47: -3290896153716524181
+      Asset UI Without Gradient_48: 8383484747335719106
+      Asset UI Without Gradient_49: -746085109818289777
+      Asset UI Without Gradient_5: -7118389954290650101
+      Asset UI Without Gradient_50: 5284411440903579505
+      Asset UI Without Gradient_51: 8271940944821100514
+      Asset UI Without Gradient_52: -1604411428140230274
+      Asset UI Without Gradient_53: -4092310403813368146
+      Asset UI Without Gradient_54: 571290190928072955
+      Asset UI Without Gradient_55: -8352947079795719339
+      Asset UI Without Gradient_56: -5045254597007225375
+      Asset UI Without Gradient_57: -6587287716933942291
+      Asset UI Without Gradient_58: 8408112118809235078
+      Asset UI Without Gradient_59: 4617028481713797814
+      Asset UI Without Gradient_6: 8066444864482987641
+      Asset UI Without Gradient_60: -5512725018745418930
+      Asset UI Without Gradient_61: -8337594740229275616
+      Asset UI Without Gradient_62: 5894542735447167386
+      Asset UI Without Gradient_63: 5058657197432678429
+      Asset UI Without Gradient_64: -5183409762616978503
+      Asset UI Without Gradient_65: -189780876997825510
+      Asset UI Without Gradient_66: 7832196799981648812
+      Asset UI Without Gradient_67: 1317761818128320613
+      Asset UI Without Gradient_68: 413969953274898138
+      Asset UI Without Gradient_69: 4612597449382510788
+      Asset UI Without Gradient_7: -1535586445345495319
+      Asset UI Without Gradient_70: 3223396471970316032
+      Asset UI Without Gradient_71: 4098054637329578498
+      Asset UI Without Gradient_72: 1730921446271066917
+      Asset UI Without Gradient_73: 1418987480054298432
+      Asset UI Without Gradient_74: 574451901308898763
+      Asset UI Without Gradient_75: -1518082379899815971
+      Asset UI Without Gradient_76: -1005731507041181728
+      Asset UI Without Gradient_77: -2111797144498381331
+      Asset UI Without Gradient_78: 1536617102257725619
+      Asset UI Without Gradient_8: 9213089912992233488
+      Asset UI Without Gradient_9: -568327674825781994
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -27,7 +27,7 @@ public class gato : MonoBehaviour
         IniciaGato();
         movimientos = 0;
         txtTurnos.text = "Turno de X";
-        ActualizarMarcador();
+        ActualizarMarcador();   //COdigo de Inicio del Progama funcional, para la base de la logica del juego
     }
 
     private void EscribeValorMatrizGato(string btn, int t)

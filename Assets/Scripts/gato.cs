@@ -24,7 +24,11 @@ public class gato : MonoBehaviour
 
     void Start()
     {
+
         //Codigo funcional en donde se inicia toda la logica del juego
+
+        //Codigo funcional donde se basa toda la logica no mover de favor
+
         IniciaGato();
         movimientos = 0;
         txtTurnos.text = "Turno de X";

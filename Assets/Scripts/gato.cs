@@ -222,6 +222,7 @@ public class gato : MonoBehaviour
             {
                 txtTurnos.text = "Turno de O";
             }
+            //Prueba de etiquetado
         }
     }
 
